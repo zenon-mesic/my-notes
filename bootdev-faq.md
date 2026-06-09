@@ -105,6 +105,10 @@ Any Discord user who reached:
 
 As a general rule no, but some team members do have the Arcanum role, among other roles.
 
+### Why were magic links removed as a login method?
+
+The boot.dev team explained it briefly in a [Discord message](https://discord.com/channels/551921866173054977/1485758807484272842/1485894681039605810).
+
 ### What is a Greater XP Potion and how do I get one?
 
 A Greater XP Potion gives the same 25 % XP bonus as the regular potion, but lasts a full 72 hours. These can not be purchased, and are only dropped as a rare reward in chests.
