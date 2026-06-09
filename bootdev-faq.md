@@ -95,7 +95,7 @@ Boots (the official boot.dev Discord bot) will automatically give you:
 
 *Note*: Automated Karma rewarding has an internal cooldown.
 
-### Who gets the Arcanum role?
+### How do I get the Arcanum role?
 
 Any Discord user who reached:
 - LV 100 (the title of Archmage)
@@ -103,4 +103,8 @@ Any Discord user who reached:
 
 ### Are users with the Arcanum role boot.dev employees?
 
-As a general rule, no, but some team members do have the Arcanum role, among other roles.
+As a general rule no, but some team members do have the Arcanum role, among other roles.
+
+### What is a Greater XP Potion and how do I get one?
+
+A Greater XP Potion gives the same 25 % XP bonus as the regular potion, but lasts a full 72 hours. These can not be purchased, and are only dropped as a rare reward in chests.
