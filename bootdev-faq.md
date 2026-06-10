@@ -97,7 +97,7 @@ Boots (the official boot.dev Discord bot) will automatically give you:
 
 ### How do I get the Arcanum role?
 
-Any Discord user who reached:
+Get:
 - LV 100 (the title of Archmage)
 - 16,386 karma points
 
