@@ -4,7 +4,7 @@
 
 Boot.dev is a great platform and I wish to support it by creating this unofficial FAQ. I am not affiliated with boot.dev in any way and boot.dev is not in any way responsible for the accuracy of the information listed in this document. The questions and answers documented here are based on what I often see on the official [boot.dev Discord server](https://discord.gg/VC4hY8BZ).
 
-## Contact Boot.dev
+## Contact
 
 ### How do I contact the boot.dev team?
 
