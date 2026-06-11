@@ -1,4 +1,4 @@
-# Unofficial Boot.dev FAQ
+# Community Boot.dev FAQ
 
 ## Introduction and Disclaimer
 
