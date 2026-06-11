@@ -14,6 +14,12 @@ Visit the official boot.dev [Contact Us](https://www.boot.dev/contact) web page 
 
 The boot.dev team does read messages posted in Discord. Having said that, if you have any questions related to your subscription, payments, discounts or refunds, boot.dev official email is the best option. You can find boot.dev official email address on the official boot.dev [Contact Us](https://www.boot.dev/contact) web page.
 
+## Subscription
+
+### How do I reach out to the boot.dev team regarding my subscription, payments, discounts or refunds?
+
+For any questions related to your subscription, payments, discounts or refunds, boot.dev official email is the best option. You can find boot.dev official email address on the official boot.dev [Contact Us](https://www.boot.dev/contact) web page.
+
 ## Roadmap
 
 ### Where can I find the official boot.dev roadmap?
@@ -37,12 +43,6 @@ Once you hit LV 100, you will get [an email](https://discord.com/channels/551921
 ### My Archmage Coin still hasn't arrived. What do I do?
 
 Send the boot.dev team [an email](https://discord.com/channels/551921866173054977/1514491468088086528/1514612967424131134).
-
-## Subscription
-
-### How do I reach out to the boot.dev team regarding my subscription, payments, discounts or refunds?
-
-For any questions related to your subscription, payments, discounts or refunds, boot.dev official email is the best option. You can find boot.dev official email address on the official boot.dev [Contact Us](https://www.boot.dev/contact) web page.
 
 ## Discord
 
