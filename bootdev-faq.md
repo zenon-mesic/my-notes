@@ -24,6 +24,20 @@ The official boot.dev roadmap is available on their [GitHub](https://github.com/
 
 Boot.dev official blog post responding to this question: [Is there a course on X technology?](https://www.boot.dev/blog/education/is-there-a-course-on/)
 
+## Archmage Coin
+
+### What is an Archmage Coin?
+
+It's a [physical coin](https://x.com/wagslane/status/1778762286364024871?lang=en) that the boot.dev teams mails to anyone who has hit LV 100 on their platform.
+
+### How do I get an Archmage Coin?
+
+Once you hit LV 100, you will get [an email](https://discord.com/channels/551921866173054977/551921866173054979/1514732787125587978) asking you for the shipping details.
+
+### My Archmage Coin still hasn't arrived. What do I do?
+
+Send the boot.dev team [an email](https://discord.com/channels/551921866173054977/1514491468088086528/1514612967424131134).
+
 ## Subscription
 
 ### How do I reach out to the boot.dev team regarding my subscription, payments, discounts or refunds?
