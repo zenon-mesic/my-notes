@@ -34,7 +34,7 @@ Boot.dev official blog post responding to this question: [Is there a course on X
 
 ### What is an Archmage Coin?
 
-It's a [physical coin](https://x.com/wagslane/status/1778762286364024871?lang=en) that the boot.dev teams mails to anyone who has hit LV 100 on their platform.
+It's a [physical coin](https://x.com/wagslane/status/1778762286364024871?lang=en) that the boot.dev team mails to anyone who has hit LV 100 on their platform.
 
 ### How do I get an Archmage Coin?
 
