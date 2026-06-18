@@ -54,6 +54,7 @@ A few things to keep in mind:
 - Take some time to formulate your question properly. 0- to low-effort questions should expect to receive 0- to low-effort responses. Ask a concrete question. Explain what you understand and what you don't understand. Describe the steps you have already tried to troubleshoot and solve the problem.
 - Use [Discord Markdown](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline) to format your message.
 - Make sure to use [code blocks](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline#h_01GY0DAKGXDEHE263BCAYEGFJA) when sharing code.
+- Share the link to the lesson instead of writing chapter and lesson numbers.
 
 ### What is the `/softban` command?
 
