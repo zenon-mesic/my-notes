@@ -101,6 +101,10 @@ XP needed for next LV = Current LV * 80 + 320
 Example:
 If you are LV 19, the XP needed for LV 20 is `19 * 80 + 320 = 1840`.
 
+### How much XP do I get for each course?
+
+Check out the [Courses Table](https://breaking-boot.github.io/collect/).
+
 ### How do I get Karma points?
 
 Boots (the official boot.dev Discord bot) will automatically give you:
