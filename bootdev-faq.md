@@ -42,7 +42,8 @@ Once you hit LV 100, you will get [an email](https://discord.com/channels/551921
 
 ### My Archmage Coin still hasn't arrived. What do I do?
 
-Send the boot.dev team [an email](https://discord.com/channels/551921866173054977/1514491468088086528/1514612967424131134).
+It can take up to a few months for the coin to arrive, depending on your location and other factors, so the first step is being patient.
+If you think something went wrong, send the boot.dev team [an email](https://discord.com/channels/551921866173054977/1514491468088086528/1514612967424131134).
 
 ## Discord
 
